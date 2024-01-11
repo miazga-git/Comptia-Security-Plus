@@ -14,7 +14,18 @@
 - CompTIA Security+ Study Guide, Sybex, Mike Chapple, David Seidl [paid material]
 - CompTIA Security+ Practice Tests, Sybex, David Seidl [paid material]
 - CompTIA Security+ certification study guide, Glen E. Clarke [paid material]
- 
 
+ ## Practice Questions
+ 
+| Resource    | Numer of questions |
+| ----------- | ----------- |
+| Jason Dion (Udemy)      | 480       |
+| Professor Messer Practice Exams   | 270        |
+| Professor Messer Study Groups   | ~210       |
+| ExamCompass   | ~650        |
+| Kaplanlearn Practice Exams   | 520       |
+| CompTIA Security+ Study Guide, Sybex, Mike Chapple, David Seidl   | 370        |
+| CompTIA Security+ Practice Tests, Sybex, David Seidl   | ~1000        |
+| CompTIA Security+ certification study guide, Glen E. Clarke   | x       |
 
 
