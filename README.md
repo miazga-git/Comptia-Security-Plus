@@ -40,4 +40,6 @@ In my opinion, the questions do not cover the required material 1 to 1, I recomm
 | Comptia Security+ mobile app with questions   | ~850       |
 | Sum   | ~4665       |
 
+## Exam afterthoughts
+08 Jan 2023 I passed my CompTIA Security+ exam, my score was 807/900 (minimum passing is 750). In my opinion exam was really fair. 
 
