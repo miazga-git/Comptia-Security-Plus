@@ -26,6 +26,6 @@
 | Kaplanlearn Practice Exams   | 520       |
 | CompTIA Security+ Study Guide, Sybex, Mike Chapple, David Seidl   | 370        |
 | CompTIA Security+ Practice Tests, Sybex, David Seidl   | ~1000        |
-| CompTIA Security+ certification study guide, Glen E. Clarke   | x       |
-
-
+| CompTIA Security+ certification study guide, Glen E. Clarke   | ~315       |
+| Comptia Security+ mobile app with questions   | ~850       |
+| Sum   | ~4665       |
