@@ -1,4 +1,6 @@
 # Comptia Security Plus - my certification path
+Below I'd like to present my CompTIA Security+ preparation journey. I present all resources that I used to prepare for the exam, I also add to this readme file a table, which presents numbers of questions that I went throught during my exam preparation.
+
 
 ## Resources
 - [Professor Messer Training Course (YouTube)](https://www.youtube.com/watch?v=9NE33fpQuw8&list=PLG49S3nxzAnkL2ulFS3132mOVKuzzBxA8) [free material]
@@ -39,6 +41,9 @@ In my opinion, the questions do not cover the required material 1 to 1, I recomm
 | CompTIA Security+ certification study guide, Glen E. Clarke   | ~315       |
 | Comptia Security+ mobile app with questions   | ~850       |
 | Sum   | ~4665       |
+
+## What my week before the exam looked like
+I decided to make solid repetition before the exam so I watched again all Professor Messer's playlist on YouTube, additionally I found mobile app with questions for CompTIA Security+ and I went through majority of those questions. The day before the exam I did general repetition - focusing mainly on Performance Based Questions from sample exams.
 
 ## Exam afterthoughts
 08 Jan 2023 I passed my CompTIA Security+ exam, my score was 807/900 (minimum passing is 750). In my opinion exam was really fair. 
