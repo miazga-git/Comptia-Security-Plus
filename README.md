@@ -46,5 +46,6 @@ In my opinion, the questions do not cover the required material 1 to 1, I recomm
 I decided to make solid repetition before the exam so I watched again all Professor Messer's playlist on YouTube, additionally I found mobile app with questions for CompTIA Security+ and I went through majority of those questions. The day before the exam I did general repetition - focusing mainly on Performance Based Questions from sample exams.
 
 ## Exam afterthoughts
-08 Jan 2023 I passed my CompTIA Security+ exam, my score was 807/900 (minimum passing is 750). In my opinion exam was really fair. 
+08 Jan 2023 I passed my CompTIA Security+ exam, my score was 807/900 (minimum passing is 750). In my opinion exam was really fair. In my opinion, going through the database of questions provided here guarantees success in the exam. Good luck on your CompTIA Sec+ exam! :)
+
 
